@@ -131,6 +131,8 @@ li { list-style: none; }
 
 img, ion-icon, a, button, time, span { display: block; }
 
+img { width: 85%; }
+
 button {
   font: inherit;
   background: none;
@@ -878,10 +880,6 @@ main {
 
 .skill-icon {
   font-size: 4em;
-}
-
-.skill-img {
-  width: 85%;
 }
 
 
